@@ -1216,5 +1216,165 @@ export const facility = [
     time: "9:00 AM - 6:30 PM",
     verified: true,
     address: "Survey No 109/2, Richard Compound, Pelhar, Vasai East, Vasai-Virar, Mumbai, Maharashtra 401208"
+  },
+  {
+    name: "E-Waste Management - E waste Recycling mumbai, E - Waste management in india",
+    capacity: 95,
+    lon: 72.8449, // Approximate Masjid Bandar West, Mumbai
+    lat: 18.9517,
+    contact: "081086 76226",
+    time: "9:00 AM - 8:30 PM",
+    verified: true,
+    address: "Bhagwan Bhuvan, 197, Samuel St, Khand Bazar, Vadgadi, Masjid Bandar West, Mandvi, Mumbai, Maharashtra 400009"
+  },
+  {
+    name: "Ecotech Recycling- E waste recycling Mumbai, E-Waste Recycling, E Waste Management in India",
+    capacity: 100,
+    lon: 72.8502, // Approximate Bandra East, Mumbai
+    lat: 19.0652,
+    contact: "090045 47542",
+    time: "9:00 AM - 6:30 PM",
+    verified: true,
+    address: "301, 3rd Floor, Bldg. No. 11, Commercial Tower, near Trade Centre Bkc, Kolivery Village, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra 400051"
+  },
+  {
+    name: "Mahavir electronic waste recycling store.",
+    capacity: 80,
+    lon: 72.9567, // Approximate Mulund East, Mumbai
+    lat: 19.1752,
+    contact: "096197 62173",
+    time: "9:00 AM - 10:00 PM",
+    verified: true,
+    address: "Mithaghar Rd, Jaihind Colony, Tata Colony, Mulund East, Mumbai, Maharashtra 400081"
+  },
+  {
+    name: "Green Life E-Waste Recycling- E-Waste Management | Battery Recycling Solutions | Electronic Waste India",
+    capacity: 90,
+    lon: 72.8856, // Approximate Kurla/Saki Naka, Mumbai
+    lat: 19.0996,
+    contact: "091373 16557",
+    time: "9:00 AM - 9:00 PM",
+    verified: true,
+    address: "Shiv Shakti Compound, C-5, Netaji Nagar, near Server Hotel, Kurla (W, Saki Naka, Mumbai, Maharashtra 400072"
+  },
+  {
+    name: "E-waste recycling store",
+    capacity: 70,
+    lon: 72.9997, // Approximate Airoli, Navi Mumbai
+    lat: 19.1551,
+    contact: "085914 69522",
+    time: "9:00 AM - 10:00 PM",
+    verified: true,
+    address: "G71, near Aroli, Sector 3, Airoli, Navi Mumbai, Maharashtra 400708"
+  },
+  {
+    name: "Kohinoor E-waste Recycling Pvt. Ltd.",
+    capacity: 85,
+    lon: 72.9082, // Approximate Ghatkopar West, Mumbai
+    lat: 19.0896,
+    contact: "096502 00761",
+    time: "9:00 AM - 8:00 PM",
+    verified: true,
+    address: "Narayan nager, 7/12, Nari Seva Sadan Rd, opp. Union Bank, Gurunanak Nagar, Narayan Nagar, Ghatkopar (W, Mumbai, Maharashtra 400086"
+  },
+  {
+    name: "Sanjari Recycling",
+    capacity: 75,
+    lon: 73.0601, // Approximate Bhiwandi
+    lat: 19.2813,
+    contact: "099877 87208",
+    time: "9:00 AM - 9:00 PM",
+    verified: true,
+    address: "1151/1, Narayan Compound Rd, opposite Ganesh Society, Fandole Nagar, Padma Nagar, Bhiwandi, Maharashtra 421302"
+  },
+  {
+    name: "MASSTECH RECYCLING MUMBAI",
+    capacity: 80,
+    lon: 72.8870, // Approximate Saki Naka, Mumbai
+    lat: 19.0986,
+    contact: "097682 77711",
+    time: "9:00 AM - 8:00 PM",
+    verified: true,
+    address: "OFFICE NO.82, MJK COMPOUND, Khairani Rd, near REHMAT MASJID, Yadav Nagar, Saki Naka, Mumbai, Maharashtra 400072"
+  },
+  {
+    name: "SIDDHI WASTETOGREEN LTD",
+    capacity: 90,
+    lon: 72.9967, // Approximate Vashi, Navi Mumbai
+    lat: 19.0707,
+    contact: "093228 11574",
+    time: "9:00 AM - 6:30 PM",
+    verified: true,
+    address: "Office No. 128, 1st Floor, Devi Annapurna Co-Op. Society Plot, 8, Mafco Market Road, Sector 18, Vashi, Navi Mumbai, Maharashtra 400705"
+  },
+  {
+    name: "Western Recycler",
+    capacity: 80,
+    lon: 72.9446, // Approximate Dahisar Mori, Navi Mumbai
+    lat: 19.0176,
+    contact: "084519 84129",
+    time: "9:00 AM - 10:00 PM",
+    verified: true,
+    address: "Garib Nawaz State, Sr.no 8/2, Plot no.633, Ganodevi Mandir, Shilphata, Panvel Rd, Gupta Compound, Kalyan, Dahisar Mori, Thane, Maharashtra 400612"
+  },
+  {
+    name: "GOGREENRECYCLING",
+    capacity: 85,
+    lon: 72.9977, // Approximate Mahape, Navi Mumbai
+    lat: 19.1080,
+    contact: "098928 59959",
+    time: "9:00 AM - 7:00 PM",
+    verified: true,
+    address: "A-8, Electronic Sadan, Mahape Midc Rd, Mahape, Navi Mumbai, Maharashtra 400701"
+  },
+  {
+    name: "Envirocare E-waste",
+    capacity: 75,
+    lon: 72.8424, // Approximate Jogeshwari West, Mumbai
+    lat: 19.1401,
+    contact: "1800 0000",
+    time: "9:00 AM - 3:00 AM",
+    verified: true,
+    address: "Plot no 4, office no 3, Station Rd, opp. Hanjar hall, Jogeshwari West, Mumbai, Maharashtra 400102"
+  },
+  {
+    name: "E-Incarnation Recycling Pvt. Ltd.",
+    capacity: 95,
+    lon: 72.9082, // Approximate Ghatkopar West, Mumbai
+    lat: 19.0896,
+    contact: "022 4749 4262",
+    time: "9:00 AM - 7:00 PM",
+    verified: true,
+    address: "Unit No. 103, 1st Floor, BHAVESHWAR ARCADE, A Wing, Lal Bahadur Shastri Marg, near Shreyas Cinema Road, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra 400086"
+  },
+  {
+    name: "BHARAT E - WASTE RECYCLING CO.",
+    capacity: 90,
+    lon: 72.8925, // Approximate Asalpha, Ghatkopar West, Mumbai
+    lat: 19.0891,
+    contact: "092247 57187",
+    time: "9:00 AM - 5:00 PM",
+    verified: true,
+    address: "PLOT NO.1, LOYALKA ESTATE JMT ROAD, NEAR JANGLESHWAR MANDIR, ASALPHA, Ghatkopar West, Mumbai, Maharashtra 400084"
+  },
+  {
+    name: "ANCUS INDIA REPROCESSING PVT LTD | E WASTE RECYCLING COMPANY",
+    capacity: 85,
+    lon: 72.8603, // Approximate Dahisar East, Mumbai
+    lat: 19.2516,
+    contact: "070286 17402",
+    time: "9:00 AM - 9:00 PM",
+    verified: true,
+    address: "Unit no. 226, Shree Krishna Industrial CSL, on, Western Express Hwy, next to Dahisar Toll Naka, beside CNG Pump, Diamond Industrial Estate, Dahisar East, Mumbai, Maharashtra 400068"
+  },
+  {
+    name: "SKV E-waste",
+    capacity: 70,
+    lon: 72.8277, // Approximate Andheri West, Mumbai
+    lat: 19.1350,
+    contact: "095147 51475",
+    time: "Open 24 hours",
+    verified: true,
+    address: "1ST FLOOR, Regional Transport Office, A-103 SHIV SHAKTI,CHS, Anna Nagar, Andheri West, Andheri, Mumbai, Maharashtra 400053"
   }
 ];
